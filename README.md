@@ -36,4 +36,4 @@ Hey there! :smile: My name is Azamat. I'm a 20-year-old kazakh web developer fro
 
 <hr/>
 
-:star: From [@BrennanBrown](https://github.com/azamatkosmaganbet)
+:star: From [@AzamatKosmaganbet](https://github.com/azamatkosmaganbet)
